@@ -11,12 +11,15 @@ section#product h2
     background-color:green
 }
  
-a{
+nav ul li a
+{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     ;
     font-size: 2.0em;
     color: azure;background-color: brown;
 }
+
+
 
 
 
