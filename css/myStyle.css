@@ -5,8 +5,8 @@ h3
   background-color: coral
 }
 
-section#product h2{
-    font-size: 4.0em;
+section#product h2
+{   font-size: 4.0em;
     color:aquamarine;
     background-color:green
 }
