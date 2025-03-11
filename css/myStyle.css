@@ -5,7 +5,7 @@ h3
   background-color: coral
 }
 
-h2{
+html body article section#product h2{
     font: size 4.0em;
     color:aquamarine;
     background-color:green
